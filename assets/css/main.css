@@ -378,7 +378,21 @@ body{
 .hvert{
   font: bold 20px Sans-Serif;
 }
-
+.subt {
+    font-size: 14px;
+}
+.text-gen2 {
+    font-size: 12px;
+}
+subt2 {
+    font-size: 13px;
+}
+.titu-black2 {
+    font-size: 14px;;
+}
+.box-bqimg {
+    height: auto;
+}
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.width85{
@@ -402,10 +416,19 @@ body{
 .hvert{
   font: bold 26px Sans-Serif;
 }
+.box-bqimg {
+    height:350px;
+    overflow: hidden;
+}
 
 }
 
-@media (min-width: 992px) and (max-width: 1030px) {}
+@media (min-width: 992px) and (max-width: 1030px) {
+	.box-bqimg {
+    height:260px;
+    overflow: hidden;
+}
+}
 
 @media (min-width: 1200px) and (max-width: 1399px) {}
 
