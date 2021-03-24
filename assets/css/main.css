@@ -1,0 +1,411 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,700;1,800&display=swap');
+
+h1, h2, h3, h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	color: #000;
+	font-size: 18px;
+}
+.mobil{
+	display: none;
+}
+.espc1{
+	display: block;
+	padding: 25px;
+}
+.espc2{
+	display: block;
+	padding: 35px;
+}
+.bq-logo{
+	text-align: center;
+	padding: 20px;
+}
+.bq-logo img{
+	display: block;
+	margin: 0 auto;
+	max-width: 238px;
+}
+.escudo{
+	display: block;
+	margin: 0 auto; 
+}
+.box-blue {
+	background: #009cde;
+	padding: 80px;
+}
+.text-bq1{
+	text-align: center;
+}
+.t1{
+	font-size: 34px;
+}
+.tex-blanco{
+	color: #fff;
+}
+.p1{
+	font-size: 24px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+.width90{
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+.width85{
+	display: block;
+	width: 85%;
+	margin: 0 auto;
+}
+.width80{
+	display: block;
+	width: 80%;
+	margin: 0 auto;
+}
+.st {
+	padding:0px 19px;
+}
+.gen {
+	font-family: 'Open Sans', sans-serif;
+	padding:0 19px;
+}
+.gen span{
+	font-weight: 700;
+	color: #009cde;
+}
+.box-gris{
+	background-color: rgba(170, 185, 185, 0.20);
+	padding: 30px 0;
+}
+.box-antes-despues{
+	text-align: center;
+}
+.box-antes-despues img{
+	display: block;
+	margin: 0 auto;
+}
+.titu-black{
+	margin: 20px auto;
+	display: inline-block;
+	background: #000;
+	color: #fff;
+	padding:10px 60px;
+	border-radius: 50px;
+	font-size: 32px;
+	text-align: center;
+	line-height: 1;
+}
+.box-ant{
+	margin-top: 20px;
+	text-align: center;
+}
+.box-ant h2{
+	font-size: 26px;
+}
+.flec {
+	display: block;
+}
+.blue {
+	color: #009cde;
+}
+.boxImg{
+	margin: 20px 0;
+}
+.boxImg img{
+	width: 100%;
+}
+.titu {
+	font-size: 32px;
+	text-align: center;
+}
+.width70{
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+}
+.prof{
+	margin: 0 auto;
+	display: block;
+}
+.lista1 {
+  list-style-image: url("../img/check.png");
+  font-size: 15px;
+  position: relative;
+}
+.lista1 span{
+	font-weight: 700;
+	display: block;
+}
+.sppq {
+	border-top: 1px solid #fff;
+	width: 60px;
+	display: block; 
+	margin: 20px 0 20px -20px;
+}
+.box-servicios .lg{
+	display: block;
+	margin: 0 auto;
+}
+.text-gen{
+	font-size: 16px;
+	padding: 0 19px;
+	width: 90%;
+}
+.text-gen span{
+	font-weight: 700;
+	color: #009cde;
+}
+.espc3{
+	display: block;
+	padding: 10px;
+}
+.textextra {
+	font-size: 28px;
+	font-weight: 800;
+	margin:20px 0;
+}
+.titu-general{
+	text-align: center;
+	font-size: 26px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.box-rm {
+	text-align: center;
+}
+.box-rm img{
+	display: block;
+	margin: 0 auto;
+}
+.box-rm p{
+	font-size: 20px;
+	font-weight: 700;
+	margin: 20px auto;
+	width: 70%;
+	padding: 10px;
+}
+.box-rm span{
+	color: #009cde;
+}
+.table1 tr th {
+	background: #009cde;
+	text-align: center;
+	text-transform: capitalize;
+}
+.table1 tr td{
+	padding: 10px;
+	text-align: center;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+.table1 tr .este{
+	text-align: left;
+}
+.table1 tr .noborde{
+	border-right: 0;
+}
+.table1 tfoot td{
+	border-bottom: 1px solid #000;
+	font-weight: 600;
+}
+.table1 .esptable{
+	padding: 5px;
+	border-right: 0;
+}
+.table1 tbody .sintop td {
+border-bottom: 1px solid #fff;
+}
+.table1 tfoot .border-fin td {
+	border-bottom: 1px solid #fff;
+}
+.tborder {
+	border-left: 2px solid #ddd;
+}
+.hrgrey {
+	border-top: 2px solid #ddd;
+}
+.middle > * {
+  vertical-align: middle;
+}
+.middle {
+	display: block;
+	margin: 0 auto;
+	width: 70%;
+}
+.hvert{
+	font-family: 'Montserrat', sans-serif;
+  display: inline-block;
+  margin: 10px 0;
+  font-size: 32px;
+  line-height: 1;
+}
+.box-bqimg{
+	height: 419px;
+	overflow: hidden;
+}
+.box-bqimg img{
+	width: 100%;
+}
+.subt{
+	font-size: 22px;
+}
+.alcenter{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+.text-gen2 {
+    font-size: 21px;
+    padding: 0;
+}
+.subt2 {
+	font-size: 18px;
+}
+.titu-black2{
+	text-align: center;
+	background: #000;
+	color: #fff;
+	font-size: 20px;
+	display: inline-block;
+	padding: 8px 10px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+.list2 {
+  list-style-image: url("../img/check-blue.png");
+  font-size: 15px;
+  position: relative;
+}
+.sppq2{
+	border-top: 1px solid #90a8b2;
+    width: 60px;
+    display: block;
+    margin: 20px 0 20px -20px;
+}
+.tblue {
+	color: #009cde;
+	font-weight: 700;
+	font-size: 18px;
+	margin: 15px auto;
+	display: block;
+}
+.titu-foot{
+	font-size: 20px;
+	color: #fff;
+	background: #000;
+	border-radius: 20px;
+	display: block;
+	padding: 5px 15px;
+	text-align: center;
+}
+.titu-foot:hover, .titu-foot:focus, .titu-black2:hover, .titu-black2:focus {
+	text-decoration: none;
+	color: #fff;
+}
+
+.p-foot{
+	font-size: 14px;
+	color: #fff;
+	font-weight: 600;
+}
+.tex-desl {
+	text-align: center;
+	color: #072d66;
+	font-weight: 600;
+}
+.img-mano {
+	width: 10%;
+	margin: 0 auto;
+	display: block;
+}
+@media (max-width:767px){
+body{
+	font-size: 12px;
+}
+.mobil{
+	display:block;
+}
+.box-blue {
+	padding: 40px;
+}
+.bq-logo img{
+	max-width: 250px;
+}
+.t1{
+	font-size: 14px;
+}
+.p1{
+	font-size: 10px;
+}
+.st{
+	font-size: 14px;
+}
+.espc1{
+	padding: 15px;
+}
+.espc2{
+	padding:20px;
+}
+.width85{
+	width: 90%;
+}
+.titu-black{
+	font-size: 18px;
+}
+.box-ant h2{
+	font-size: 20px;
+}
+.width80, .width90 {
+	width: 100%;
+}
+
+.titu {
+	font-size: 18px;
+	text-align: center;
+}
+.textextra {
+	font-size: 12px;
+}
+.titu-general {
+	font-size: 14px;
+}
+.hvert{
+  font: bold 20px Sans-Serif;
+}
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.width85{
+	width: 90%;
+}
+.t1{
+	font-size: 20px;
+}
+.p1{
+	font-size: 12px;
+}
+.st{
+	font-size: 16px;
+}
+.titu-black{
+	font-size: 22px;
+}
+.box-ant h2{
+	font-size: 20px;
+}
+.hvert{
+  font: bold 26px Sans-Serif;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1030px) {}
+
+@media (min-width: 1200px) and (max-width: 1399px) {}
+
