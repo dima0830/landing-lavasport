@@ -192,6 +192,9 @@ body{
 .box-rm span{
 	color: #009cde;
 }
+.table1 {
+	width: 1120px;
+}
 .table1 tr th {
 	background: #009cde;
 	text-align: center;
