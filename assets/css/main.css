@@ -396,6 +396,14 @@ subt2 {
 .box-bqimg {
     height: auto;
 }
+.titu-foot{
+	font-size: 14px;
+	margin-top: 20px;
+}
+.p-foot {
+    font-size: 10px;
+}
+
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.width85{
